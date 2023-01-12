@@ -1,0 +1,12 @@
+﻿global using Ardalis.Specification;
+global using Microsoft.Azure.Cosmos;
+global using Microsoft.Azure.Cosmos.Linq;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using user.application.Common.Interfaces;
+global using user.domain.Entities;
+global using user.domain.Interfaces.Persistense;
+global using user.domain.Specifications.Base;
+global using user.infrastructure.AppSettings;
+global using user.infrastructure.CosmosDbData;
+global using user.infrastructure.CosmosDbData.Interfaces;

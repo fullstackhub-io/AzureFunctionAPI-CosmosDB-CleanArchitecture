@@ -1,0 +1,14 @@
+﻿global using AutoMapper;
+global using FluentValidation;
+global using FluentValidation.Results;
+global using MediatR;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using System.Reflection;
+global using user.application.Common.BaseClass;
+global using user.application.Common.DTO;
+global using user.application.Common.Mappings;
+global using user.application.Common.VM;
+global using user.domain.Exceptions;
+global using user.domain.Interfaces.Persistense;
+global using user.domain.Specifications;
