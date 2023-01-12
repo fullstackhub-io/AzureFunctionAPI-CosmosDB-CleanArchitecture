@@ -1,4 +1,4 @@
-# AzureFunctionAPI-CosmosDB-CleanArchitecture
+# HTTP Trigger Azure Function with CosmosDB Clean Architecture
  - In Azure Portal, Create new Azure CosmosDB account Go to Data
    Explorer, create new database "famspotdb"
   
